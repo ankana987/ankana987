@@ -1,4 +1,4 @@
-Learner 🍂
+<h1 align="center"> Learner 🍂 </h1>
 <br>
 <img width="540" height="350" alt="8b8804f68dd860a430c7b323c4cf4eea" src="https://github.com/user-attachments/assets/8c427aa9-2533-4e16-b745-374b0a7c5eca" />
 <hr>
