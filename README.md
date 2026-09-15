@@ -22,7 +22,7 @@ Alongside development, I'm also working on improving my problem-solving and Data
   </tr>
   <tr>
     <td><strong>Languages</strong></td>
-    <td>C, JavaScript, Java</td>
+    <td>C, JavaScript, Java, C++</td>
   </tr>
   <tr>
     <td><strong>Currently Learning</strong></td>
