@@ -1,4 +1,4 @@
-<h1 align="center"> Learner 🍂 </h1>
+<h1 align="center"> Ankana here! 🍂 </h1>
 <br>
 <div align="center">
 <img width="1000" height="300" alt="nav" src="https://github.com/user-attachments/assets/4e4e66dc-14ab-4cbf-8bf3-7aac1bbf7357" />
