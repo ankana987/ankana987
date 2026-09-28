@@ -1,6 +1,9 @@
 <h1 align="center"> Learner 🍂 </h1>
 <br>
-<img width="500" height="300" alt="8b8804f68dd860a430c7b323c4cf4eea" src="https://github.com/user-attachments/assets/8c427aa9-2533-4e16-b745-374b0a7c5eca"  align="center"/>
+<div align="center">
+<img width="1000" height="300" alt="nav" src="https://github.com/user-attachments/assets/4e4e66dc-14ab-4cbf-8bf3-7aac1bbf7357" />
+
+</div>
 <hr>
 I'm a Computer Science Engineering student who is currently exploring the world of software development and trying to figure out where I fit best in this huge tech ecosystem.
 
